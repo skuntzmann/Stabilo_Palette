@@ -1,56 +1,5 @@
-***********************************
-* © STABILO PALETTE FOR MUSESCORE *
-*                                 *
-* 2019 Sylvain Kuntzmann (skunt)  *
-* https://off.mann.tf             *
-*                                 *
-* MuseScore official website      *
-* https://musescore.org           *
-***********************************
-(english below)
-
-La palette © STABILO contient des couleurs de surlignage pour votre partition.
-Insérer une couleur. Double-cliquer dessus pour la redimensionner. C'est tout !DDDDDDDDD
-
-Les éléments sont des fichiers PNG de 64x64 pixels
-Placement automatique = off
-Conserver le ratio = off
-Position dans la pile = 1
-
-Ajouter la palette dans MuseScore 3.x
-1. Dans la fenêtre de la palette, cliquer sur "Ajouter des palettes"
-2. Cliquer sur "Ajouter une palette personnalisée"
-3. Clic droit sur les trois points de la nouvelle paette personnalisée
-4. Cliquer sur "Charger une palette"
-5. Choisir la palette ©STABILO
-6. Cliquer sur le bouton "Ouvrir"
-
-Couleurs
-Stab#1 #f67172
-Stab#2 #fda450
-Stab#3 #efe246
-Stab#4 #78d257
-Stab#5 #05b688
-Stab#6 #82cae3
-Stab#7 #9b5ac0
-Stab#8 #f3748f
-Stab#9 #c93e91
-
-
-***** English version *****
-
+La palette © STABILO pour MuseScore contient des couleurs de surlignage pour votre partition.
+Insérer une couleur. Double-cliquer dessus pour la redimensionner. C'est tout !
+*
 © STABILO palette includes highlighting colors for your score.
 Insert a color. Double-click to resize it if needed. That's all !
-
-Elements are 64x64 pixels PNG files
-Automatic placement = off
-Lock aspect ratio = off
-Stacking order = 1
-
-Adding Palette in MuseScore 3.x
-1. In the Palette window, click on "Add palettes"
-2. Click on "Create custom palette"
-3. Right click on the three dots of the new custom palette
-4. Click on "Load palette"
-5. Choose ©STABILO palette
-6. Click on the "Open" button
