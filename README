@@ -12,11 +12,6 @@
 La palette © STABILO contient des couleurs de surlignage pour votre partition.
 Insérer une couleur. Double-cliquer dessus pour la redimensionner. C'est tout !
 
-Les éléments sont des fichiers PNG de 64x64 pixels
-Placement automatique = off
-Conserver le ratio = off
-Position dans la pile = 1
-
 Comment configurer la palette Stabilo
 1. Dans le dossier Documents/MuseScore3/ créer un nouveau dossier nommé "Palettes"
 2. Télécharger l'archive de la palette Stabilo, la copier dans le dossier Palette
@@ -26,10 +21,15 @@ Comment configurer la palette Stabilo
 6. Ouvrez dans l'explorateur de fichiers de votre ordinateur le dossier Stabilo_v1-2 qui se trouve dans Documents/MuseScore3/Palettes/
 7. Faire glisser chacun des 18 fichiers png couleur dans une partition dans MuseScore, en les accrochant à n'importe quel élément
 8. Dans MuseScore, faire un clic droit sur une couleur > Sélection > Tous les éléments similaires
-9. Dans l'inspecteur(F9 si non affiché) : décochez "Placement automatique" et "Conserver le rapport larguer / hauteur", régler le décalagae X et Y à O et l'ordre dans la pile à 1
+9. Dans l'inspecteur (F9 si non affiché) : décochez "Placement automatique" et "Conserver le rapport larguer / hauteur", régler le décalage X et Y à O et l'ordre dans la pile à 1
 10. Maintenir les touches MAJ et CTRL appuyés et faire glisser chaque couleur dans la palette Stabilo nouvellement créée
-11. Dans le fenêtre Palette, cliqer sur les 3 petits poinst en face du nom de la palette "Stabilo" > Enregistrer la palette. L'enregistrer dans le dossier Documents/MuseScore3/Palettes//Stabilo_v1-2
-12. La palette est prête ! Insérer une couleur dans la partition, redimensionner et c'est tout !
+11. Dans le fenêtre Palette, cliquer sur les 3 petits points en face du nom de la palette "Stabilo" > Enregistrer la palette. L'enregistrer dans le dossier Documents/MuseScore3/Palettes//Stabilo_v1-2
+12. La palette est prête ! Insérer une couleur dans la partition, redimensionner si besoin et c'est tout !
+
+Les éléments sont des fichiers PNG de 64x64 pixels
+Placement automatique = off
+Conserver le ratio = off
+Position dans la pile = 1
 
 Couleurs
 Stab#1 #f67172
@@ -48,22 +48,21 @@ Stab#9 #c93e91
 © STABILO palette includes highlighting colors for your score.
 Insert a color. Double-click to resize it if needed. That's all !
 
-Elements are 64x64 pixels PNG files
-Automatic placement = off
-Lock aspect ratio = off
-Stacking order = 1
-
 How to configure the Stabilo palette
 1. In the folder Documents/MuseScore3/ create a new folder named "Palettes"
 2. Dowload the Stabilo palette archive, copy it in the folder Palette
 3. Unzip the archive and delete the .zip file to keep only the Stabilo_v1-2 folder
 4. Launch MuseScore
-5. In the Palettes window, cliquer sur "Ajouter" puis "Créer une palette". Donner un nom : "Stabilo" et cliquer sur "Créer"
-6. Ouvrez dans l'explorateur de fichiers de votre ordinateur le dossier Stabilo_v1-2 qui se trouve dans Documents/MuseScore3/Palettes/
-7. Faire glisser chacun des 18 fichiers png couleur dans une partition dans MuseScore, en les accrochant à n'importe quel élément
-8. Dans MuseScore, faire un clic droit sur une couleur > Sélection > Tous les éléments similaires
-9. Dans l'inspecteur(F9 si non affiché) : décochez "Placement automatique" et "Conserver le rapport larguer / hauteur", régler le décalagae X et Y à O et l'ordre dans la pile à 1
-10. Maintenir les touches MAJ et CTRL appuyés et faire glisser chaque couleur dans la palette Stabilo nouvellement créée
-11. Dans le fenêtre Palette, cliqer sur les 3 petits poinst en face du nom de la palette "Stabilo" > Enregistrer la palette. L'enregistrer dans le dossier Documents/MuseScore3/Palettes//Stabilo_v1-2
-12. La palette est prête ! Insérer une couleur dans la partition, redimensionner et c'est tout !
+5. In the Palettes window, click on "Add pal..." then "Create custom palette". Give a name: "Stabilo" and click on "Create"
+6. Open in your files explorer of your computer the Stabilo_v1-2 folder which is located in Documents/MuseScore3/Palettes/
+7. Drag and drop each of the 18 color png files in a score in MuseScore, by anchoring it to an element
+8. In MuseScore, right click on a color > Select > All similar elements
+9. In the Inspecteur (F9 if not displayed) : uncheck "Automatic placement" and "Lock aspect ratio", set the Offset to O and the Stacking order to 1
+10. Keep pressed SHIFT and CTRL and drag and drop each color in the Stabilo Palette
+11. In the Palette window, click on the three little dots near the palette name "Stabilo" > Save Palette. Save it in the Documents/MuseScore3/Palettes//Stabilo_v1-2 folder
+12. The palette is ready! Insert a color in your score, resize it if needed and that's all!
 
+Elements are 64x64 pixels PNG files
+Automatic placement = off
+Lock aspect ratio = off
+Stacking order = 1
