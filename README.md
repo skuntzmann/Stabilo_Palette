@@ -6,4 +6,5 @@ Configurez très facilement votre Stabilo palette en deux minutes !
 Insert a color. Double-click to resize it if needed. That's all !
 Configure very easely your Stabilo palette in two minutes !
 
-Contact : skuntzmann(@)april(.)org | off.mann.tf
+Contact : tf(@)mann(.)tf
+Website : hackingmusescore.org
